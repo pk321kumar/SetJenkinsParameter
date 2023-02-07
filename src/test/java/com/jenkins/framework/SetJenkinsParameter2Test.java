@@ -8,5 +8,6 @@ public void recieveParameterFromJenkins() {
 	String BROWSER=System.getProperty("browser");
 	String ENV=System.getProperty("url");
 	System.out.println("Browser===>"+BROWSER+" ,Url==>"+ENV);
+	//..
 }
 }
