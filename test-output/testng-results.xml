@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-21T10:32:50 IST" name="Default suite" finished-at="2022-12-21T10:32:50 IST" duration-ms="45">
+  <suite started-at="2022-12-21T11:19:09 IST" name="Default suite" finished-at="2022-12-21T11:19:09 IST" duration-ms="59">
     <groups>
       <group name="regression">
         <method signature="practiceJenkins2Test.test2Test()[pri:0, instance:com.jenkins.framework.practiceJenkins2Test@6d3a388c]" name="test2Test" class="com.jenkins.framework.practiceJenkins2Test"/>
@@ -12,15 +12,15 @@
         <method signature="practiceJenkins2Test.test2Test()[pri:0, instance:com.jenkins.framework.practiceJenkins2Test@6d3a388c]" name="test2Test" class="com.jenkins.framework.practiceJenkins2Test"/>
       </group> <!-- sanity -->
     </groups>
-    <test started-at="2022-12-21T10:32:50 IST" name="Default test" finished-at="2022-12-21T10:32:50 IST" duration-ms="45">
+    <test started-at="2022-12-21T11:19:09 IST" name="Default test" finished-at="2022-12-21T11:19:09 IST" duration-ms="59">
       <class name="com.jenkins.framework.practiceJenkins2Test">
-        <test-method signature="test2Test()[pri:0, instance:com.jenkins.framework.practiceJenkins2Test@6d3a388c]" started-at="2022-12-21T10:32:50 IST" name="test2Test" finished-at="2022-12-21T10:32:50 IST" duration-ms="7" status="PASS">
+        <test-method signature="test2Test()[pri:0, instance:com.jenkins.framework.practiceJenkins2Test@6d3a388c]" started-at="2022-12-21T11:19:09 IST" name="test2Test" finished-at="2022-12-21T11:19:09 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2Test -->
       </class> <!-- com.jenkins.framework.practiceJenkins2Test -->
       <class name="com.jenkins.framework.PracticeJenkinsTest">
-        <test-method signature="test1Test()[pri:0, instance:com.jenkins.framework.PracticeJenkinsTest@3c73951]" started-at="2022-12-21T10:32:50 IST" name="test1Test" finished-at="2022-12-21T10:32:50 IST" duration-ms="0" status="PASS">
+        <test-method signature="test1Test()[pri:0, instance:com.jenkins.framework.PracticeJenkinsTest@3c73951]" started-at="2022-12-21T11:19:09 IST" name="test1Test" finished-at="2022-12-21T11:19:09 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1Test -->
